@@ -4,7 +4,7 @@ Team Members:
 1. Aenish Pattjoshi 20BCE1507
 2. Karthick V 20BCE1627
 3. Shilpan Pawan Singh 20BCE1816
-4. Vaibhav S 20BCE1350
+4. Vaibhav S 20BCE1530
 
 Problem Statement: 
 Travelling on roads on this country is a nightmare for people with visual disabilities, Make the navigation process easier for the visually impaired driverless vehicles and drones. Reducing road accidents by detecting moving and stationary objects.
